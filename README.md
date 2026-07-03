@@ -64,8 +64,11 @@
         tree-structured reinforcement fine-tuning for self-evolving embodied agents.
       </p>
       <p>
-        <a href="https://yulin-luo.github.io/llm-as-dataset-analyst/"><b>LLM as Dataset Analyst</b></a>:
+        <a href="https://llm-as-dataset-analyst.github.io/"><b>LLM as Dataset Analyst</b></a>:
         subpopulation structure discovery with large language models.
+        <br>
+        <a href="https://github.com/llm-as-dataset-analyst/SSDLLM">Code</a> |
+        <a href="https://arxiv.org/abs/2405.02363">Paper</a>
       </p>
 
       <h4>Selected Publications</h4>
