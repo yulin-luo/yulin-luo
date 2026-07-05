@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="https://yulin-luo.github.io/" target="_blank">
-    <img alt="Homepage" src="https://img.shields.io/badge/Homepage-yulin--luo.github.io-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://yulin-luo.github.io/files/Yulin_Luo_CV.pdf" target="_blank">
-    <img alt="CV" src="https://img.shields.io/badge/CV-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+    <img alt="Homepage" src="https://img.shields.io/badge/-Homepage-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" target="_blank">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Yulin%20Luo-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="https://github.com/yulin-luo" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:yulin@stu.pku.edu.cn">
-    <img alt="Email" src="https://img.shields.io/badge/Email-yulin%40stu.pku.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -33,8 +33,6 @@
   <img alt="Benchmarks" src="https://img.shields.io/badge/Data%20%2F%20Benchmarks-Evaluation-F66A0A?style=flat-square">
   <img alt="Model Data" src="https://img.shields.io/badge/Model--Data-Co--evolution-0366D6?style=flat-square">
 </p>
-
-<h3>🏠 <b>Homepage</b>: <a href="https://yulin-luo.github.io/" target="_blank">yulin-luo.github.io</a></h3>
 
 <div style="margin-top:10px; font-size:.95rem; line-height:1.75;">
   <p>
@@ -57,13 +55,6 @@
     <td width="33%"><strong>🔁 Model-Data Co-evolution</strong><br>Scaling robot intelligence through better data and better models.</td>
   </tr>
 </table>
-
-<p>
-  <a href="https://yulin-luo.github.io/files/Yulin_Luo_CV.pdf" target="_blank">CV</a> ·
-  <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" target="_blank">Google Scholar</a> ·
-  <a href="https://github.com/yulin-luo" target="_blank">GitHub</a> ·
-  <a href="mailto:yulin@stu.pku.edu.cn">Email</a>
-</p>
 
 # 📑 Papers
 > See my <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" target="_blank">Google Scholar</a> or <a href="https://yulin-luo.github.io/" target="_blank">homepage</a> for more details.
