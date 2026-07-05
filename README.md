@@ -57,3 +57,5 @@
 * **RoboBench**: benchmark for evaluating MLLMs as embodied brains. [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [Project](https://robo-bench.github.io/)
 * **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/llm-as-dataset-analyst/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/)
 * **RoboMIND**: multi-embodiment robot manipulation benchmark and data resources. [Code](https://github.com/x-humanoid-robomind) / [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) / [Project](https://x-humanoid-robomind.github.io/)
+
+<!-- profile-refresh: 2026-07-05 -->
