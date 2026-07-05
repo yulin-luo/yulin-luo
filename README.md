@@ -58,4 +58,4 @@
 * **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/llm-as-dataset-analyst/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/)
 * **RoboMIND**: multi-embodiment robot manipulation benchmark and data resources. [Code](https://github.com/x-humanoid-robomind) / [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) / [Project](https://x-humanoid-robomind.github.io/)
 
-<!-- profile-refresh: 2026-07-05 -->
+<!-- profile-refresh: 2026-07-05-2 -->
