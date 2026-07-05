@@ -63,7 +63,7 @@
 * **[ECCV 26]** RoboBench: A Comprehensive Evaluation Benchmark for MLLMs as Embodied Brain, [Webpage](https://robo-bench.github.io/) / [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [arXiv](https://arxiv.org/abs/2510.17801)
 * **[arXiv 26]** Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models, [Webpage](https://deepvision-vla.github.io/) / [arXiv](https://arxiv.org/abs/2603.15618)
 * **[AAAI 26 Oral]** Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test-Time Adaptation, [Code](https://github.com/RoyZry98/MoASE-Pytorch) / [arXiv](https://arxiv.org/abs/2405.16486)
-* **[ECCV 24]** LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model, [Webpage](https://llm-as-dataset-analyst.github.io/) / [Code](https://github.com/llm-as-dataset-analyst/SSDLLM) / [arXiv](https://arxiv.org/abs/2405.02363)
+* **[ECCV 24]** LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model, [Webpage](https://llm-as-dataset-analyst.github.io/) / [Code](https://github.com/yulin-luo/SSDLLM) / [arXiv](https://arxiv.org/abs/2405.02363)
 * **[MICCAI 22]** RandStainNA: Learning Stain-Agnostic Features from Histology Slides by Bridging Stain Augmentation and Normalization, [Code](https://github.com/yiqings/RandStainNA) / [arXiv](https://arxiv.org/abs/2206.12694)
 
 ## Co-Author
@@ -75,5 +75,5 @@
 # 📷 Open-source Projects
 
 * **RoboBench**: benchmark for evaluating MLLMs as embodied brains. [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [Project](https://robo-bench.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/RoboBench?style=social">
-* **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/llm-as-dataset-analyst/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/llm-as-dataset-analyst/SSDLLM?style=social">
+* **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/yulin-luo/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/SSDLLM?style=social">
 * **RoboMIND**: multi-embodiment robot manipulation benchmark and data resources. [Code](https://github.com/x-humanoid-robomind) / [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) / [Project](https://x-humanoid-robomind.github.io/)
