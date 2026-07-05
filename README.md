@@ -1,14 +1,42 @@
 <h1 align="center">
-  Hi, I'm <a href="https://yulin-luo.github.io/" target="_blank">Yulin Luo (罗峪霖)</a> 👋<br>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/yulin-luo?style=flat">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yulin-luo?style=flat">
-  <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Yulin%20Luo-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
-  <a href="mailto:yulin@stu.pku.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-yulin%40stu.pku.edu.cn-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  Hi, I'm <a href="https://yulin-luo.github.io/" target="_blank">Yulin Luo (罗峪霖)</a> 👋
 </h1>
+
+<p align="center">
+  <strong>Ph.D. student @ Peking University</strong><br>
+  Generalizable Embodied Foundation Models for Open-World Robot Intelligence
+</p>
+
+<p align="center">
+  <a href="https://yulin-luo.github.io/" target="_blank">
+    <img alt="Homepage" src="https://img.shields.io/badge/Homepage-yulin--luo.github.io-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://yulin-luo.github.io/files/Yulin_Luo_CV.pdf" target="_blank">
+    <img alt="CV" src="https://img.shields.io/badge/CV-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" target="_blank">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Yulin%20Luo-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="mailto:yulin@stu.pku.edu.cn">
+    <img alt="Email" src="https://img.shields.io/badge/Email-yulin%40stu.pku.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/yulin-luo?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/yulin-luo?style=social">
+</p>
+
+<p align="center">
+  <img alt="Embodied AI" src="https://img.shields.io/badge/Embodied%20AI-Open%20World-6F42C1?style=flat-square">
+  <img alt="Foundation Models" src="https://img.shields.io/badge/Foundation%20Models-Generalization-0E8A16?style=flat-square">
+  <img alt="Benchmarks" src="https://img.shields.io/badge/Data%20%2F%20Benchmarks-Evaluation-F66A0A?style=flat-square">
+  <img alt="Model Data" src="https://img.shields.io/badge/Model--Data-Co--evolution-0366D6?style=flat-square">
+</p>
 
 <h3>🏠 <b>Homepage</b>: <a href="https://yulin-luo.github.io/" target="_blank">yulin-luo.github.io</a></h3>
 
-<div style="margin-top:10px; font-size:.93rem; line-height:1.75;">
+<div style="margin-top:10px; font-size:.95rem; line-height:1.75;">
   <p>
     Hi! I am <strong>Yulin Luo</strong>, a Ph.D. student at the
     <a href="https://cs.pku.edu.cn/" target="_blank">School of Computer Science, Peking University</a>,
@@ -17,17 +45,18 @@
   </p>
   <p>
     My research focuses on <strong>generalizable embodied foundation models for the open world</strong>.
-    I am especially interested in building embodied models that generalize across objects, skills,
-    embodiments, scenes, and tasks, and in designing data and benchmarks that expose the limits of
-    current multimodal and robotic intelligence.
-  </p>
-  <p>
-    My recent work follows three connected directions:
-    <strong>model</strong> scaling for open-world embodied intelligence,
-    <strong>data / benchmark</strong> construction for embodied-agent evaluation,
-    and <strong>model-data co-evolution</strong> for improving robot intelligence through better data and better models.
+    I study how embodied models can generalize across objects, skills, embodiments, scenes, and tasks,
+    and how data and benchmarks can expose and improve the limits of current multimodal and robotic intelligence.
   </p>
 </div>
+
+<table>
+  <tr>
+    <td width="33%"><strong>🤖 Model</strong><br>Open-world embodied foundation models and robust multimodal learning.</td>
+    <td width="33%"><strong>🧭 Data / Benchmark</strong><br>Embodied-agent evaluation, robot-scenario data, and benchmark construction.</td>
+    <td width="33%"><strong>🔁 Model-Data Co-evolution</strong><br>Scaling robot intelligence through better data and better models.</td>
+  </tr>
+</table>
 
 <p>
   <a href="https://yulin-luo.github.io/files/Yulin_Luo_CV.pdf" target="_blank">CV</a> ·
@@ -54,8 +83,6 @@
 
 # 📷 Open-source Projects
 
-* **RoboBench**: benchmark for evaluating MLLMs as embodied brains. [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [Project](https://robo-bench.github.io/)
-* **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/llm-as-dataset-analyst/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/)
+* **RoboBench**: benchmark for evaluating MLLMs as embodied brains. [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [Project](https://robo-bench.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/RoboBench?style=social">
+* **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/llm-as-dataset-analyst/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/llm-as-dataset-analyst/SSDLLM?style=social">
 * **RoboMIND**: multi-embodiment robot manipulation benchmark and data resources. [Code](https://github.com/x-humanoid-robomind) / [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) / [Project](https://x-humanoid-robomind.github.io/)
-
-<!-- profile-refresh: 2026-07-05-2 -->
