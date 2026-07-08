@@ -24,7 +24,7 @@
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/yulin-luo?style=social">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/yulin-luo?style=social">
+  <img alt="Open-source project stars" src="https://img.shields.io/badge/Project%20Stars-214-yellow?style=social&logo=github">
 </p>
 
 <p align="center">
@@ -74,6 +74,7 @@
 
 # 📷 Open-source Projects
 
+<!-- Project stars checked on 2026-07-08: RoboBench 19 + SSDLLM 9 + RoboMIND 128 + RandStainNA 58 = 214. -->
 * **RoboBench**: benchmark for evaluating MLLMs as embodied brains. [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [Project](https://robo-bench.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/RoboBench?style=social">
 * **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/yulin-luo/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/SSDLLM?style=social">
 * **RoboMIND**: multi-embodiment robot manipulation benchmark and data resources. [Code](https://github.com/x-humanoid-robomind) / [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) / [Project](https://x-humanoid-robomind.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/x-humanoid-robomind/x-humanoid-robomind.github.io?style=social">
