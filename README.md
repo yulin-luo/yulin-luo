@@ -60,7 +60,7 @@
 > See my <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" target="_blank">Google Scholar</a> or <a href="https://yulin-luo.github.io/" target="_blank">homepage</a> for more details.
 
 ## First / Co-first Author
-* **[ECCV 26, CCF-B]** RoboBench: A Comprehensive Evaluation Benchmark for MLLMs as Embodied Brain, [Webpage](https://robo-bench.github.io/) / [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [arXiv](https://arxiv.org/abs/2510.17801)
+* **[ECCV 26, CCF-B]** RoboBench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain, [Webpage](https://robo-bench.github.io/) / [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [arXiv](https://arxiv.org/abs/2510.17801)
 * **[ACM MM 26, CCF-A]** Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models, [Webpage](https://deepvision-vla.github.io/) / [arXiv](https://arxiv.org/abs/2603.15618)
 * **[AAAI 26 Oral, CCF-A]** Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test-Time Adaptation, [Code](https://github.com/RoyZry98/MoASE-Pytorch) / [arXiv](https://arxiv.org/abs/2405.16486)
 * **[ECCV 24, CCF-B]** LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model, [Webpage](https://llm-as-dataset-analyst.github.io/) / [Code](https://github.com/yulin-luo/SSDLLM) / [arXiv](https://arxiv.org/abs/2405.02363)
