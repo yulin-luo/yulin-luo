@@ -24,7 +24,7 @@
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/yulin-luo?style=social">
-  <img alt="Open-source project stars" src="https://img.shields.io/badge/Project%20Stars-216-yellow?style=social&logo=github">
+  <img alt="Open-source project stars" src="https://img.shields.io/badge/Project%20Stars-219-yellow?style=social&logo=github">
 </p>
 
 <p align="center">
@@ -39,7 +39,8 @@
     Hi! I am <strong>Yulin Luo</strong>, a Ph.D. candidate at the
     <a href="https://cs.pku.edu.cn/" target="_blank">School of Computer Science, Peking University</a>,
     advised by Prof. <a href="https://scholar.google.cz/citations?user=voqw10cAAAAJ&hl=zh-CN" target="_blank">Shanghang Zhang</a>.
-    I received my B.Eng. in Automation from Shanghai Jiao Tong University in 2023.
+    I received my B.Eng. in Automation from the School of Electronic Information
+    and Electrical Engineering, Shanghai Jiao Tong University in 2023.
   </p>
   <p>
     My research focuses on <strong>open-world generalization for embodied intelligence</strong>.
@@ -60,10 +61,10 @@
 > See my <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" target="_blank">Google Scholar</a> or <a href="https://yulin-luo.github.io/" target="_blank">homepage</a> for more details.
 
 ## First / Co-first Author
+* **[ACM MM 26, CCF-A]** Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models, [Webpage](https://deepvision-vla.github.io/) / [ACM MM](https://2026.acmmm.org/) / [arXiv](https://arxiv.org/abs/2603.15618)
 * **[ECCV 26, CCF-B]** RoboBench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain, [Webpage](https://robo-bench.github.io/) / [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [arXiv](https://arxiv.org/abs/2510.17801)
-* **[ACM MM 26, CCF-A]** Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models, [Webpage](https://deepvision-vla.github.io/) / [arXiv](https://arxiv.org/abs/2603.15618)
-* **[AAAI 26 Oral, CCF-A]** Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test-Time Adaptation, [Code](https://github.com/RoyZry98/MoASE-Pytorch) / [arXiv](https://arxiv.org/abs/2405.16486)
 * **[ECCV 24, CCF-B]** LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model, [Webpage](https://llm-as-dataset-analyst.github.io/) / [Code](https://github.com/yulin-luo/SSDLLM) / [arXiv](https://arxiv.org/abs/2405.02363)
+* **[AAAI 26 Oral, CCF-A]** Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test-Time Adaptation, [Code](https://github.com/RoyZry98/MoASE-Pytorch) / [arXiv](https://arxiv.org/abs/2405.16486)
 * **[MICCAI 22, CCF-B]** RandStainNA: Learning Stain-Agnostic Features from Histology Slides by Bridging Stain Augmentation and Normalization, [Code](https://github.com/yiqings/RandStainNA) / [arXiv](https://arxiv.org/abs/2206.12694)
 
 ## Co-Author
@@ -74,7 +75,7 @@
 
 # 📷 Open-source Projects
 
-<!-- Project stars checked on 2026-07-12: RoboBench 20 + SSDLLM 9 + RoboMIND 129 + RandStainNA 58 = 216. -->
+<!-- Project stars checked on 2026-07-16: RoboBench 21 + SSDLLM 9 + RoboMIND 131 + RandStainNA 58 = 219. -->
 * **RoboBench**: benchmark for evaluating MLLMs as embodied brains. [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [Project](https://robo-bench.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/RoboBench?style=social">
 * **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/yulin-luo/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/SSDLLM?style=social">
 * **RoboMIND**: multi-embodiment robot manipulation benchmark and data resources. [Code](https://github.com/x-humanoid-robomind) / [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) / [Project](https://x-humanoid-robomind.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/x-humanoid-robomind/x-humanoid-robomind.github.io?style=social">
