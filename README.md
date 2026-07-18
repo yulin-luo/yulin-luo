@@ -69,8 +69,8 @@
 
 ## Co-Author
 * **[RSS 25, CCF-B]** RoboMIND: Benchmark on Multi-Embodiment Intelligence Normative Data for Robot Manipulation, [Webpage](https://x-humanoid-robomind.github.io/) / [Code](https://github.com/x-humanoid-robomind) / [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) / [arXiv](https://arxiv.org/abs/2412.13877)
-* **[NeurIPS 25]** SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents, [Webpage](https://seea-r1.github.io/) / [Code](https://github.com/AurumTian/seea-r1) / [arXiv](https://arxiv.org/abs/2506.21669)
-* **[ICLR 25]** Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want, [Code](https://github.com/AFeng-x/Draw-and-Understand) / [arXiv](https://arxiv.org/abs/2403.20271)
+* **[NeurIPS 25, CCF-A]** SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents, [Webpage](https://seea-r1.github.io/) / [Code](https://github.com/AurumTian/seea-r1) / [arXiv](https://arxiv.org/abs/2506.21669)
+* **[ICLR 25, CCF-A]** Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want, [Code](https://github.com/AFeng-x/Draw-and-Understand) / [arXiv](https://arxiv.org/abs/2403.20271)
 * **[AAAI 24, CCF-A]** Efficient Deweather Mixture-of-Experts with Uncertainty-Aware Feature-Wise Linear Modulation, [Code](https://github.com/RoyZry98/MoFME-Pytorch) / [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29622) / [arXiv](https://arxiv.org/abs/2312.16610)
 
 # 📷 Open-source Projects
