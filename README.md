@@ -51,25 +51,25 @@
 
 ## First / Co-first Author
 * **Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**  
-  *ACM MM 2026 · CCF-A* · [Project](https://deepvision-vla.github.io/) · [ACM DL](https://dl.acm.org/doi/10.1145/3767308.3835774) · [Code](https://github.com/yulin-luo/deepvision-vla) · [arXiv](https://arxiv.org/abs/2603.15618)
+  ![ACM MM 2026 · CCF-A](https://img.shields.io/badge/ACM%20MM%202026%20%C2%B7%20CCF--A-lightgrey) [![Project](https://img.shields.io/badge/Project-lightgrey)](https://deepvision-vla.github.io/) [![ACM DL](https://img.shields.io/badge/ACM%20DL-lightgrey)](https://dl.acm.org/doi/10.1145/3767308.3835774) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/yulin-luo/deepvision-vla) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2603.15618)
 * **RoboBench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain**  
-  *ECCV 2026 · CCF-B* · [Project](https://robo-bench.github.io/) · [Code](https://github.com/yulin-luo/RoboBench) · [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) · [Results](https://huggingface.co/datasets/lyl010221-pku/RoboBench-Results) · [arXiv](https://arxiv.org/abs/2510.17801)
+  ![ECCV 2026 · CCF-B](https://img.shields.io/badge/ECCV%202026%20%C2%B7%20CCF--B-lightgrey) [![Project](https://img.shields.io/badge/Project-lightgrey)](https://robo-bench.github.io/) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/yulin-luo/RoboBench) [![Dataset](https://img.shields.io/badge/Dataset-lightgrey)](https://huggingface.co/datasets/LeoFan01/RoboBench) [![Results](https://img.shields.io/badge/Results-lightgrey)](https://huggingface.co/datasets/lyl010221-pku/RoboBench-Results) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2510.17801)
 * **LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model**  
-  *ECCV 2024 · CCF-B* · [Project](https://llm-as-dataset-analyst.github.io/) · [Code](https://github.com/yulin-luo/SSDLLM) · [arXiv](https://arxiv.org/abs/2405.02363)
+  ![ECCV 2024 · CCF-B](https://img.shields.io/badge/ECCV%202024%20%C2%B7%20CCF--B-lightgrey) [![Project](https://img.shields.io/badge/Project-lightgrey)](https://llm-as-dataset-analyst.github.io/) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/yulin-luo/SSDLLM) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2405.02363)
 * **Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test-Time Adaptation**  
-  *AAAI 2026 Oral · CCF-A* · [Code](https://github.com/RoyZry98/MoASE-Pytorch) · [arXiv](https://arxiv.org/abs/2405.16486)
+  ![AAAI 2026 Oral · CCF-A](https://img.shields.io/badge/AAAI%202026%20Oral%20%C2%B7%20CCF--A-lightgrey) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/RoyZry98/MoASE-Pytorch) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2405.16486)
 * **RandStainNA: Learning Stain-Agnostic Features from Histology Slides by Bridging Stain Augmentation and Normalization**  
-  *MICCAI 2022 · CCF-B* · [Code](https://github.com/yiqings/RandStainNA) · [arXiv](https://arxiv.org/abs/2206.12694)
+  ![MICCAI 2022 · CCF-B](https://img.shields.io/badge/MICCAI%202022%20%C2%B7%20CCF--B-lightgrey) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/yiqings/RandStainNA) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2206.12694)
 
 ## Co-Author
 * **RoboMIND: Benchmark on Multi-Embodiment Intelligence Normative Data for Robot Manipulation**  
-  *RSS 2025 · CCF-B* · [Project](https://x-humanoid-robomind.github.io/) · [Code](https://github.com/x-humanoid-robomind) · [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) · [arXiv](https://arxiv.org/abs/2412.13877)
+  ![RSS 2025 · CCF-B](https://img.shields.io/badge/RSS%202025%20%C2%B7%20CCF--B-lightgrey) [![Project](https://img.shields.io/badge/Project-lightgrey)](https://x-humanoid-robomind.github.io/) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/x-humanoid-robomind) [![Dataset](https://img.shields.io/badge/Dataset-lightgrey)](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2412.13877)
 * **SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**  
-  *NeurIPS 2025 · CCF-A* · [Project](https://seea-r1.github.io/) · [Code](https://github.com/AurumTian/seea-r1) · [arXiv](https://arxiv.org/abs/2506.21669)
+  ![NeurIPS 2025 · CCF-A](https://img.shields.io/badge/NeurIPS%202025%20%C2%B7%20CCF--A-lightgrey) [![Project](https://img.shields.io/badge/Project-lightgrey)](https://seea-r1.github.io/) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/AurumTian/seea-r1) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2506.21669)
 * **Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want**  
-  *ICLR 2025 · CCF-A* · [Code](https://github.com/AFeng-x/Draw-and-Understand) · [arXiv](https://arxiv.org/abs/2403.20271)
+  ![ICLR 2025 · CCF-A](https://img.shields.io/badge/ICLR%202025%20%C2%B7%20CCF--A-lightgrey) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/AFeng-x/Draw-and-Understand) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2403.20271)
 * **Efficient Deweather Mixture-of-Experts with Uncertainty-Aware Feature-Wise Linear Modulation**  
-  *AAAI 2024 · CCF-A* · [Code](https://github.com/RoyZry98/MoFME-Pytorch) · [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29622) · [arXiv](https://arxiv.org/abs/2312.16610)
+  ![AAAI 2024 · CCF-A](https://img.shields.io/badge/AAAI%202024%20%C2%B7%20CCF--A-lightgrey) [![Code](https://img.shields.io/badge/Code-lightgrey)](https://github.com/RoyZry98/MoFME-Pytorch) [![AAAI](https://img.shields.io/badge/AAAI-lightgrey)](https://ojs.aaai.org/index.php/AAAI/article/view/29622) [![arXiv](https://img.shields.io/badge/arXiv-lightgrey)](https://arxiv.org/abs/2312.16610)
 
 # 📷 Open-source Projects
 
