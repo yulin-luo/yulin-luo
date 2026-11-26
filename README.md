@@ -1,13 +1,20 @@
 <h1 align="center">Yulin Luo (罗峪霖)</h1>
 
 <p align="center">
-  Ph.D. candidate at Peking University · Chief AI Officer at <a href="https://evophys.com/">EvoPhys</a>
+  Ph.D. candidate at Peking University
 </p>
 
 <p align="center">
   <a href="https://yulin-luo.github.io/">Homepage</a> ·
   <a href="https://scholar.google.com/citations?hl=en&amp;user=SgeV4NkAAAAJ">Google Scholar</a> ·
   <a href="mailto:yulin@stu.pku.edu.cn">Email</a>
+</p>
+
+<p align="center">
+  <img alt="Open-World Embodied AI" src="https://img.shields.io/badge/-Open--World%20Embodied%20AI-475569?style=flat-square">
+  <img alt="Foundation Models" src="https://img.shields.io/badge/-Foundation%20Models-475569?style=flat-square">
+  <img alt="Goal-Aligned Evaluation" src="https://img.shields.io/badge/-Goal--Aligned%20Evaluation-475569?style=flat-square">
+  <img alt="Model–Data Co-evolution" src="https://img.shields.io/badge/-Model%E2%80%93Data%20Co--evolution-475569?style=flat-square">
 </p>
 
 <div style="margin-top:10px; font-size:.95rem; line-height:1.75;">
