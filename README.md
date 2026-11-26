@@ -5,16 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://yulin-luo.github.io/">Homepage</a> ·
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=SgeV4NkAAAAJ">Google Scholar</a> ·
-  <a href="mailto:yulin@stu.pku.edu.cn">Email</a>
+  <a href="https://yulin-luo.github.io/"><img src="https://img.shields.io/badge/-Homepage-315A82?style=flat&amp;logo=githubpages&amp;logoColor=white" alt="Homepage" height="24"></a>
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=SgeV4NkAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-315A82?style=flat&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" height="24"></a>
+  <a href="https://github.com/yulin-luo"><img src="https://img.shields.io/badge/-GitHub-315A82?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub" height="24"></a>
+  <a href="mailto:yulin@stu.pku.edu.cn"><img src="https://img.shields.io/badge/-Email-315A82?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" height="24"></a>
 </p>
 
 <p align="center">
-  <img alt="Open-World Embodied AI" src="https://img.shields.io/badge/-Open--World%20Embodied%20AI-475569?style=flat-square">
-  <img alt="Foundation Models" src="https://img.shields.io/badge/-Foundation%20Models-475569?style=flat-square">
-  <img alt="Goal-Aligned Evaluation" src="https://img.shields.io/badge/-Goal--Aligned%20Evaluation-475569?style=flat-square">
-  <img alt="Model–Data Co-evolution" src="https://img.shields.io/badge/-Model%E2%80%93Data%20Co--evolution-475569?style=flat-square">
+  <img src="https://img.shields.io/badge/Embodied%20AI-Open%20World-536F86?style=flat&amp;labelColor=3E5063" alt="Embodied AI: Open World">
+  <img src="https://img.shields.io/badge/Foundation%20Models-Generalization-536F86?style=flat&amp;labelColor=3E5063" alt="Foundation Models: Generalization">
+  <img src="https://img.shields.io/badge/Goal--aligned-Evaluation-536F86?style=flat&amp;labelColor=3E5063" alt="Goal-aligned: Evaluation">
+  <img src="https://img.shields.io/badge/Model%E2%80%93Data-Co--evolution-536F86?style=flat&amp;labelColor=3E5063" alt="Model–Data: Co-evolution">
 </p>
 
 <div style="margin-top:10px; font-size:.95rem; line-height:1.75;">
