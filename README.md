@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://yulin-luo.github.io/"><img src="https://img.shields.io/static/v1?message=Homepage&amp;logo=githubpages" alt="Homepage"></a>
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=SgeV4NkAAAAJ"><img src="https://img.shields.io/static/v1?message=Google%20Scholar&amp;logo=googlescholar" alt="Google Scholar"></a>
-  <a href="https://github.com/yulin-luo"><img src="https://img.shields.io/static/v1?message=GitHub&amp;logo=github" alt="GitHub"></a>
-  <a href="mailto:yulin@stu.pku.edu.cn"><img src="https://img.shields.io/static/v1?message=Email&amp;logo=gmail" alt="Email"></a>
+  <a href="https://yulin-luo.github.io/"><img src="https://img.shields.io/badge/-Homepage-blue?logo=githubpages&amp;logoColor=white" alt="Homepage"></a>
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=SgeV4NkAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
+  <a href="https://github.com/yulin-luo"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&amp;logoColor=white" alt="GitHub"></a>
+  <a href="mailto:yulin@stu.pku.edu.cn"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Embodied%20AI&amp;message=Open%20World" alt="Embodied AI: Open World">
-  <img src="https://img.shields.io/static/v1?label=Foundation%20Models&amp;message=Generalization" alt="Foundation Models: Generalization">
-  <img src="https://img.shields.io/static/v1?label=Goal-aligned&amp;message=Evaluation" alt="Goal-aligned: Evaluation">
-  <img src="https://img.shields.io/static/v1?label=Model%E2%80%93Data&amp;message=Co-evolution" alt="Model–Data: Co-evolution">
+  <img src="https://img.shields.io/badge/Embodied%20AI-Open%20World-blue" alt="Embodied AI: Open World">
+  <img src="https://img.shields.io/badge/Foundation%20Models-Generalization-blue" alt="Foundation Models: Generalization">
+  <img src="https://img.shields.io/badge/Goal--aligned-Evaluation-blue" alt="Goal-aligned: Evaluation">
+  <img src="https://img.shields.io/badge/Model%E2%80%93Data-Co--evolution-blue" alt="Model–Data: Co-evolution">
 </p>
 
 <div style="margin-top:10px; font-size:.95rem; line-height:1.75;">
