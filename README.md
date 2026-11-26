@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://yulin-luo.github.io/"><img src="https://img.shields.io/badge/-Homepage-2C716D?style=flat&amp;logo=githubpages&amp;logoColor=white" alt="Homepage" height="24"></a>
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=SgeV4NkAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-7352A1?style=flat&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" height="24"></a>
-  <a href="https://github.com/yulin-luo"><img src="https://img.shields.io/badge/-GitHub-365DB5?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub" height="24"></a>
-  <a href="mailto:yulin@stu.pku.edu.cn"><img src="https://img.shields.io/badge/-Email-54667B?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" height="24"></a>
+  <a href="https://yulin-luo.github.io/"><img src="https://img.shields.io/badge/-Homepage-007E74?style=flat&amp;logo=githubpages&amp;logoColor=white" alt="Homepage" height="24"></a>
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=SgeV4NkAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-744FC7?style=flat&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" height="24"></a>
+  <a href="https://github.com/yulin-luo"><img src="https://img.shields.io/badge/-GitHub-285ECD?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub" height="24"></a>
+  <a href="mailto:yulin@stu.pku.edu.cn"><img src="https://img.shields.io/badge/-Email-B13D6B?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" height="24"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embodied%20AI-Open%20World-2C716D?style=flat&amp;labelColor=414D5C" alt="Embodied AI: Open World">
-  <img src="https://img.shields.io/badge/Foundation%20Models-Generalization-365DB5?style=flat&amp;labelColor=414D5C" alt="Foundation Models: Generalization">
-  <img src="https://img.shields.io/badge/Goal--aligned-Evaluation-84621C?style=flat&amp;labelColor=414D5C" alt="Goal-aligned: Evaluation">
-  <img src="https://img.shields.io/badge/Model%E2%80%93Data-Co--evolution-7352A1?style=flat&amp;labelColor=414D5C" alt="Model–Data: Co-evolution">
+  <img src="https://img.shields.io/badge/Embodied%20AI-Open%20World-007E74?style=flat&amp;labelColor=13736C" alt="Embodied AI: Open World">
+  <img src="https://img.shields.io/badge/Foundation%20Models-Generalization-285ECD?style=flat&amp;labelColor=3555B7" alt="Foundation Models: Generalization">
+  <img src="https://img.shields.io/badge/Goal--aligned-Evaluation-A95B14?style=flat&amp;labelColor=925416" alt="Goal-aligned: Evaluation">
+  <img src="https://img.shields.io/badge/Model%E2%80%93Data-Co--evolution-744FC7?style=flat&amp;labelColor=6845AE" alt="Model–Data: Co-evolution">
 </p>
 
 <div style="margin-top:10px; font-size:.95rem; line-height:1.75;">
