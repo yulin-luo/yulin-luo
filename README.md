@@ -1,37 +1,13 @@
-<h1 align="center">
-  Hi, I'm <a href="https://yulin-luo.github.io/" target="_blank">Yulin Luo (罗峪霖)</a> 👋
-</h1>
+<h1 align="center">Yulin Luo (罗峪霖)</h1>
 
 <p align="center">
-  <strong>Ph.D. candidate @ School of Computer Science, Peking University</strong><br>
-  Generalizable Embodied Foundation Models for Open-World Robot Intelligence
+  Ph.D. candidate at Peking University · Chief AI Officer at <a href="https://evophys.com/">EvoPhys</a>
 </p>
 
 <p align="center">
-  <a href="https://yulin-luo.github.io/" target="_blank">
-    <img alt="Homepage" src="https://img.shields.io/badge/-Homepage-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" target="_blank">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
-  </a>
-  <a href="https://github.com/yulin-luo" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:yulin@stu.pku.edu.cn">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/yulin-luo?style=social">
-  <img alt="Open-source project stars" src="https://img.shields.io/badge/Project%20Stars-219-yellow?style=social&logo=github">
-</p>
-
-<p align="center">
-  <img alt="Embodied AI" src="https://img.shields.io/badge/Embodied%20AI-Open%20World-6F42C1?style=flat-square">
-  <img alt="Foundation Models" src="https://img.shields.io/badge/Foundation%20Models-Generalization-0E8A16?style=flat-square">
-  <img alt="Goal-aligned Evaluation" src="https://img.shields.io/badge/Goal--aligned-Evaluation-F66A0A?style=flat-square">
-  <img alt="Model Data" src="https://img.shields.io/badge/Model--Data-Co--evolution-0366D6?style=flat-square">
+  <a href="https://yulin-luo.github.io/">Homepage</a> ·
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=SgeV4NkAAAAJ">Google Scholar</a> ·
+  <a href="mailto:yulin@stu.pku.edu.cn">Email</a>
 </p>
 
 <div style="margin-top:10px; font-size:.95rem; line-height:1.75;">
@@ -57,12 +33,17 @@
   </tr>
 </table>
 
+## Recent updates
+
+- **Nov 2026** · Released DeepVision-VLA inference and evaluation code, the BridgeV2 ROI dataset, and diagnostic reproduction resources. [Release notes](https://deepvision-vla.github.io/#news) · [Hugging Face Collection](https://huggingface.co/collections/lyl010221-pku/deepvision-vla-6b030965d2acd95487d39617)
+- **Jul–Nov 2026** · Tencent, Li Auto, ZTE, and ACE Robotics reported model evaluations on RoboBench. [Models and evaluation protocols](https://robo-bench.github.io/#external-evaluations)
+
 # 📑 Papers
 > See my <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" target="_blank">Google Scholar</a> or <a href="https://yulin-luo.github.io/" target="_blank">homepage</a> for more details.
 
 ## First / Co-first Author
-* **[ACM MM 26, CCF-A]** Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models, [Webpage](https://deepvision-vla.github.io/) / [ACM MM](https://2026.acmmm.org/) / [arXiv](https://arxiv.org/abs/2603.15618)
-* **[ECCV 26, CCF-B]** RoboBench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain, [Webpage](https://robo-bench.github.io/) / [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [arXiv](https://arxiv.org/abs/2510.17801)
+* **[ACM MM 26, CCF-A]** Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models, [Webpage](https://deepvision-vla.github.io/) / [ACM Digital Library](https://dl.acm.org/doi/10.1145/3767308.3835774) / [Code](https://github.com/yulin-luo/deepvision-vla) / [arXiv](https://arxiv.org/abs/2603.15618)
+* **[ECCV 26, CCF-B]** RoboBench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain, [Webpage](https://robo-bench.github.io/) / [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [Results](https://huggingface.co/datasets/lyl010221-pku/RoboBench-Results) / [arXiv](https://arxiv.org/abs/2510.17801)
 * **[ECCV 24, CCF-B]** LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model, [Webpage](https://llm-as-dataset-analyst.github.io/) / [Code](https://github.com/yulin-luo/SSDLLM) / [arXiv](https://arxiv.org/abs/2405.02363)
 * **[AAAI 26 Oral, CCF-A]** Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test-Time Adaptation, [Code](https://github.com/RoyZry98/MoASE-Pytorch) / [arXiv](https://arxiv.org/abs/2405.16486)
 * **[MICCAI 22, CCF-B]** RandStainNA: Learning Stain-Agnostic Features from Histology Slides by Bridging Stain Augmentation and Normalization, [Code](https://github.com/yiqings/RandStainNA) / [arXiv](https://arxiv.org/abs/2206.12694)
@@ -75,7 +56,7 @@
 
 # 📷 Open-source Projects
 
-<!-- Project stars checked on 2026-07-16: RoboBench 21 + SSDLLM 9 + RoboMIND 131 + RandStainNA 58 = 219. -->
+* **DeepVision-VLA** — visual grounding for vision-language-action models. [Code](https://github.com/yulin-luo/deepvision-vla) / [Project](https://deepvision-vla.github.io/) / [Models and data](https://huggingface.co/collections/lyl010221-pku/deepvision-vla-6b030965d2acd95487d39617) <img alt="DeepVision-VLA stars" src="https://img.shields.io/github/stars/yulin-luo/deepvision-vla?style=social">
 * **RoboBench**: benchmark for evaluating MLLMs as embodied brains. [Code](https://github.com/yulin-luo/RoboBench) / [Dataset](https://huggingface.co/datasets/LeoFan01/RoboBench) / [Project](https://robo-bench.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/RoboBench?style=social">
 * **SSDLLM**: LLM-based dataset analyst for discovering subpopulation structure. [Code](https://github.com/yulin-luo/SSDLLM) / [Project](https://llm-as-dataset-analyst.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/yulin-luo/SSDLLM?style=social">
 * **RoboMIND**: multi-embodiment robot manipulation benchmark and data resources. [Code](https://github.com/x-humanoid-robomind) / [Dataset](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) / [Project](https://x-humanoid-robomind.github.io/) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/x-humanoid-robomind/x-humanoid-robomind.github.io?style=social">
